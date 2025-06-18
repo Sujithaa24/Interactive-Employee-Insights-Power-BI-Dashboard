@@ -1,0 +1,39 @@
+Model,Name,Email,Director,Senior Manager,Please select your Manager Name:,Please enter your Employee ID:,Please enter your Dell Email ID:,Gender,Job Level,Attendance,Team,Attendance Status,Salary,Month,Bonus
+Basic,James,James Tony@Sample_Demo.com,Morris,Dan,Dan,8645382,James Tony@Sample.com,Male,Executive,Present,Team 4,Present,10000,Feb,500
+Basic,John,John Tony@Sample_Demo.com,0,Lewis,Lewis,8645383,John Tony@Sample.com,Male,Senior Executive,Absent,Team 5,Absent,11000,Feb,550
+Basic,Robert,Robert Tony@Sample_Demo.com,Morris,Sam,Sam,8645384,Robert Tony@Sample.com,Male,Anyalst,Present,Team 4,Present,12000,Feb,600
+Basic,Michael,Michael Tony@Sample_Demo.com,Morris,Kent,Kent,8645385,Michael Tony@Sample.com,Female,Senior Analyst,Present,Team 2,Present,13000,Feb,650
+Basic,William,William Tony@Sample_Demo.com,Morris,0,Wade,8645386,William Tony@Sample.com,Female,Team Lead,Present,Team 2,Present,14000,Feb,700
+Basic,David,David Tony@Sample_Demo.com,Morris,Dan,Dan,8645387,David Tony@Sample.com,Female,Executive,Absent,Team 5,Absent,15000,Feb,750
+Basic,Richard,Richard Tony@Sample_Demo.com,Morris,Lewis,Lewis,8645388,Richard Tony@Sample.com,Female,Senior Executive,Present,Team 2,Present,16000,Feb,800
+Basic,Charles,Charles Tony@Sample_Demo.com,Morris,Sam,Sam,8645389,Charles Tony@Sample.com,Female,Anyalst,Present,Team 2,Present,17000,Feb,850
+Basic,Joseph,Joseph Tony@Sample_Demo.com,Morris,Kent,Kent,8645390,Joseph Tony@Sample.com,Female,Senior Analyst,Present,Team 1,Present,18000,Feb,900
+Basic,Thomas,Thomas Tony@Sample_Demo.com,Morris,Wade,Wade,8645391,Thomas Tony@Sample.com,Male,Team Lead,Absent,Team 4,Absent,19000,Feb,950
+Basic,Edward,Edward Tony@Sample_Demo.com,Morris,Dan,Dan,8645392,Edward Tony@Sample.com,Female,Executive,Absent,Team 2,Absent,20000,Feb,1000
+Basic,Daniel,Daniel Tony@Sample_Demo.com,Morris,Lewis,Lewis,8645393,Daniel Tony@Sample.com,Male,Senior Executive,Present,Team 4,Present,21000,Feb,1050
+Basic,Paul,Paul Tony@Sample_Demo.com,Morris,Sam,Sam,8645394,Paul Tony@Sample.com,Female,Anyalst,Present,Team 3,Present,22000,Feb,1100
+Basic,Mark,Mark Tony@Sample_Demo.com,Morris,Kent,Kent,8645395,Mark Tony@Sample.com,Female,Senior Analyst,Present,Team 5,Present,23000,Feb,1150
+Basic,Donald,Donald Tony@Sample_Demo.com,0,Wade,Wade,8645396,Donald Tony@Sample.com,Male,Team Lead,Present,Team 5,Present,24000,Feb,1200
+Basic,Jeff,Jeff Tony@Sample_Demo.com,Morris,0,Dan,8645397,Jeff Tony@Sample.com,Male,Executive,Absent,Team 5,Absent,25000,Feb,1250
+Basic,Kenneth,Kenneth Tony@Sample_Demo.com,Morris,Lewis,Lewis,8645398,Kenneth Tony@Sample.com,Male,Senior Executive,Present,Team 5,Present,26000,Feb,1300
+Basic,Steven,Steven Tony@Sample_Demo.com,Morris,Sam,Sam,8645399,Steven Tony@Sample.com,Female,Anyalst,Present,Team 5,Present,27000,Feb,1350
+Basic,Kevin,Kevin Tony@Sample_Demo.com,Morris,Kent,Kent,8645400,Kevin Tony@Sample.com,Female,Senior Analyst,Present,Team 1,Present,28000,Feb,1400
+Intermediate,James,James Tony@Sample_Demo.com,Morris,Wade,Wade,8645401,James Tony@Sample.com,Male,Team Lead,Present,Team 4,Present,10000,Feb,500
+Intermediate,John,John Tony@Sample_Demo.com,Morris,Dan,Dan,8645402,John Tony@Sample.com,Male,Executive,Present,Team 4,Present,10000,Feb,500
+Intermediate,Robert,Robert Tony@Sample_Demo.com,Morris,Lewis,Lewis,8645403,Robert Tony@Sample.com,Female,Senior Executive,Present,Team 2,Present,10000,Feb,500
+Intermediate,Michael,Michael Tony@Sample_Demo.com,0,Sam,Sam,8645404,Michael Tony@Sample.com,Female,Anyalst,Present,Team 2,Absent,10000,Feb,500
+Intermediate,William,William Tony@Sample_Demo.com,Morris,Kent,Kent,8645405,William Tony@Sample.com,Female,Senior Analyst,Present,Team 2,Present,10000,Feb,500
+Intermediate,David,David Tony@Sample_Demo.com,Morris,Wade,Wade,8645406,David Tony@Sample.com,Female,Team Lead,Present,Team 2,Present,10000,Feb,500
+Intermediate,Richard,Richard Tony@Sample_Demo.com,Morris,Dan,Dan,8645407,Richard Tony@Sample.com,Female,Executive,Present,Team 1,Present,10000,Feb,500
+Intermediate,Charles,Charles Tony@Sample_Demo.com,Morris,Lewis,Lewis,8645408,Charles Tony@Sample.com,Male,Senior Executive,Present,Team 4,Absent,10000,Feb,500
+Intermediate,Joseph,Joseph Tony@Sample_Demo.com,Morris,Sam,Sam,8645409,Joseph Tony@Sample.com,Female,Anyalst,Present,Team 3,Present,10000,Feb,500
+Intermediate,Thomas,Thomas Tony@Sample_Demo.com,0,Kent,Kent,8645410,Thomas Tony@Sample.com,Female,Senior Analyst,Present,Team 5,Present,10000,Feb,500
+Intermediate,Edward,Edward Tony@Sample_Demo.com,Morris,Wade,Wade,8645411,Edward Tony@Sample.com,Male,Team Lead,Present,Team 5,Present,10000,Feb,500
+Intermediate,Daniel,Daniel Tony@Sample_Demo.com,Morris,Dan,Dan,8645412,Daniel Tony@Sample.com,Male,Executive,Present,Team 5,Absent,10000,Feb,500
+Intermediate,Paul,Paul Tony@Sample_Demo.com,Morris,Lewis,Lewis,8645413,Paul Tony@Sample.com,Male,Senior Executive,Present,Team 2,Absent,15000,Feb,750
+Intermediate,Mark,Mark Tony@Sample_Demo.com,Morris,Sam,Sam,8645414,Mark Tony@Sample.com,Male,Anyalst,Present,Team 2,Present,20000,Feb,1000
+Intermediate,Donald,Donald Tony@Sample_Demo.com,Morris,Kent,Kent,8645415,Donald Tony@Sample.com,Male,Senior Analyst,Present,Team 2,Present,25000,Feb,1250
+Intermediate,Jeff,Jeff Tony@Sample_Demo.com,Morris,Wade,Wade,8645416,Jeff Tony@Sample.com,Female,Team Lead,Present,Team 1,Present,30000,Feb,1500
+Intermediate,Kenneth,Kenneth Tony@Sample_Demo.com,Morris,0,Dan,8645417,Kenneth Tony@Sample.com,Female,Executive,Present,Team 4,Present,35000,Feb,1750
+Intermediate,Steven,Steven Tony@Sample_Demo.com,Morris,Lewis,Lewis,8645418,Steven Tony@Sample.com,Female,Senior Executive,Present,Team 3,Absent,40000,Feb,2000
+Intermediate,Kevin,Kevin Tony@Sample_Demo.com,Morris,Sam,Sam,8645419,Kevin Tony@Sample.com,Female,Anyalst,Present,Team 5,Present,45000,Feb,300000
