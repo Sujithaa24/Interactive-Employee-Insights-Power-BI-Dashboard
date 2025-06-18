@@ -16,14 +16,6 @@ This project visualizes insights such as:
 
 ---
 
-## 🖥️ Report in Power BI Desktop
-
-| Report View | Dashboard |
-|-------------|-----------|
-| ![Page 1](screenshots/page1.png) | ![Page 2](screenshots/page2.png) |
-
----
-
 ## 📁 Files in This Repo
 
 | File | Description |
